@@ -44,7 +44,7 @@ body {
     height: 25px;
     width: 25px;
     background-color: rgba(255, 255, 255, 0.4);
-    background-image: url("./assets/left_arrowhead.png");
+    background-image: url("../assets/left_arrowhead.png");
     background-repeat: no-repeat;
     background-size: cover;
     filter: invert(0.8);
